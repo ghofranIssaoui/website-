@@ -1,0 +1,1034 @@
+[
+  {
+    "_id": "69c9fe8a25d87f1c5a988831",
+    "candidate": "69b8cbfeac0ec2f38c7ddb18",
+    "job": "69a4dd7dd0a3d818c1da2d17",
+    "cv": "http://10.88.88.131:5000/api/files/uploads/1774843377912-51329973-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 42,
+      "decision": "Rejected",
+      "matchedSkills": [
+        "Typescript",
+        "GO",
+        "React"
+      ],
+      "missingSkills": [],
+      "strengths": [
+        "Has Typescript experience",
+        "Has GO experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Low compatibility score (42%)"
+      ],
+      "summary": "Ilineissaoui has limited alignment for the Senior UX Engineer position. Missing key skills: . Consider reviewing other candidates or noting areas for improvement.",
+      "recommendation": "AI recommends reviewing other candidates. Score: 42%. May consider for future positions.",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-03-30T07:45:17.567Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-03-30T09:44:39.323Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff748",
+      "proposedAt": "2026-04-05T02:56:30.036Z",
+      "deadline": "2026-04-08T02:56:30.014Z",
+      "slots": [
+        {
+          "date": "2026-04-06",
+          "time": "12:00",
+          "datetime": "2026-04-06T11:00:00.000Z",
+          "_id": "69d1cf5e0a8990acc0ca9ba9"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "13:30",
+          "datetime": "2026-04-06T12:30:00.000Z",
+          "_id": "69d1cf5e0a8990acc0ca9baa"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "14:00",
+          "datetime": "2026-04-06T13:00:00.000Z",
+          "_id": "69d1cf5e0a8990acc0ca9bab"
+        }
+      ],
+      "status": "proposed"
+    },
+    "appliedAt": "2026-03-30T04:39:38.104Z",
+    "createdAt": "2026-03-30T04:39:38.110Z",
+    "updatedAt": "2026-04-05T02:56:30.039Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices.",
+    "scheduledInterview": {
+      "reminderSent": false
+    }
+  },
+  {
+    "_id": "69ca1f07bce7833e1c67c884",
+    "candidate": "69ca1c71bce7833e1c67c038",
+    "job": "69a4dd7dd0a3d818c1da2d17",
+    "cv": "http://10.88.88.131:5000/api/files/uploads/1774853873968-265286856-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "rejected",
+    "aiEvaluation": {
+      "score": 42,
+      "decision": "Rejected",
+      "matchedSkills": [
+        "Typescript",
+        "GO",
+        "React"
+      ],
+      "missingSkills": [],
+      "strengths": [
+        "Has Typescript experience",
+        "Has GO experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Low compatibility score (42%)"
+      ],
+      "summary": "Ghofran has limited alignment for the Senior UX Engineer position. Missing key skills: . Consider reviewing other candidates or noting areas for improvement.",
+      "recommendation": "AI recommends reviewing other candidates. Score: 42%. May consider for future positions.",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-03-30T07:45:17.786Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "rejected",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-03-30T09:43:41.057Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "appliedAt": "2026-03-30T06:58:15.512Z",
+    "createdAt": "2026-03-30T06:58:15.513Z",
+    "updatedAt": "2026-03-30T09:43:41.071Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69ca232fbce7833e1c67c9f8",
+    "candidate": "69b8cbfeac0ec2f38c7ddb18",
+    "job": "69a4dd7dd0a3d818c1da2d18",
+    "cv": "http://10.88.88.131:5000/api/files/uploads/1774843377912-51329973-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 53,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "React",
+        "Java"
+      ],
+      "missingSkills": [
+        "Javascript"
+      ],
+      "strengths": [
+        "Has React experience",
+        "Has Java experience"
+      ],
+      "weaknesses": [
+        "Missing Javascript experience"
+      ],
+      "summary": "Ilineissaoui shows good alignment for the Frontend Development Intern position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 53%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 53%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-03-30T07:45:17.984Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-04-01T07:29:03.213Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff744",
+      "proposedAt": "2026-04-03T11:27:25.670Z",
+      "deadline": "2026-04-06T11:27:25.670Z",
+      "slots": [
+        {
+          "date": "2026-04-20",
+          "time": "12:30",
+          "datetime": "2026-04-20T11:30:00.000Z",
+          "_id": "69cfa41d2bcd0f46eaf9b7e0"
+        },
+        {
+          "date": "2026-04-23",
+          "time": "12:30",
+          "datetime": "2026-04-23T11:30:00.000Z",
+          "_id": "69cfa41d2bcd0f46eaf9b7e1"
+        },
+        {
+          "date": "2026-04-20",
+          "time": "12:30",
+          "datetime": "2026-04-20T11:30:00.000Z",
+          "_id": "69cfa41d2bcd0f46eaf9b7e2"
+        }
+      ],
+      "googleMeetLink": "htvgdhn",
+      "status": "proposed"
+    },
+    "appliedAt": "2026-03-30T07:15:59.164Z",
+    "createdAt": "2026-03-30T07:15:59.165Z",
+    "updatedAt": "2026-04-03T11:27:25.675Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69ca2b4025ec40ba58cfd15a",
+    "candidate": "69ca1c71bce7833e1c67c038",
+    "job": "69a4dd7dd0a3d818c1da2d19",
+    "cv": "http://10.88.88.131:5000/api/files/uploads/1774853873968-265286856-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 37,
+      "decision": "Rejected",
+      "matchedSkills": [
+        "Python",
+        "Sql",
+        "GO"
+      ],
+      "missingSkills": [],
+      "strengths": [
+        "Has Python experience",
+        "Has Sql experience",
+        "Has GO experience"
+      ],
+      "weaknesses": [
+        "Low compatibility score (37%)"
+      ],
+      "summary": "Ghofran has limited alignment for the Lead Data Scientist position. Missing key skills: . Consider reviewing other candidates or noting areas for improvement.",
+      "recommendation": "AI recommends reviewing other candidates. Score: 37%. May consider for future positions.",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-03-30T07:50:24.397Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-04-03T13:38:10.524Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "appliedAt": "2026-03-30T07:50:24.061Z",
+    "createdAt": "2026-03-30T07:50:24.063Z",
+    "updatedAt": "2026-04-03T13:38:11.250Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices.",
+    "scheduledInterview": {
+      "reminderSent": false
+    }
+  },
+  {
+    "_id": "69cac87eea0e6e3329cfd00d",
+    "candidate": "69b8cbfeac0ec2f38c7ddb18",
+    "job": "69cac839ea0e6e3329cfcfce",
+    "cv": "http://10.88.88.131:5000/api/files/uploads/1774843377912-51329973-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 55,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "Typescript",
+        "React"
+      ],
+      "missingSkills": [
+        "Css"
+      ],
+      "strengths": [
+        "Has Typescript experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Css experience"
+      ],
+      "summary": "Ilineissaoui shows good alignment for the Senior Frontend Developer position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 55%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 55%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-03-30T19:01:20.667Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-03-30T19:04:40.923Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff744",
+      "proposedAt": "2026-04-03T11:20:08.788Z",
+      "deadline": "2026-04-06T11:20:08.788Z",
+      "slots": [
+        {
+          "date": "2026-04-20",
+          "time": "12:00",
+          "datetime": "2026-04-20T11:00:00.000Z",
+          "_id": "69cfa268c3475a25e80cad88"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "12:30",
+          "datetime": "2026-04-21T11:30:00.000Z",
+          "_id": "69cfa268c3475a25e80cad89"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "13:00",
+          "datetime": "2026-04-22T12:00:00.000Z",
+          "_id": "69cfa268c3475a25e80cad8a"
+        }
+      ],
+      "googleMeetLink": "httpshfhhhhghgc",
+      "status": "proposed"
+    },
+    "appliedAt": "2026-03-30T19:01:18.207Z",
+    "createdAt": "2026-03-30T19:01:18.208Z",
+    "updatedAt": "2026-04-03T11:20:08.801Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69cc90b8f7beb2aca8e4d12b",
+    "candidate": "69cc5f4a40a16be6d9d610b7",
+    "job": "69cac839ea0e6e3329cfcfce",
+    "cv": "http://10.34.214.131:5000/api/files/uploads/1775014039387-392584203-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "interview_scheduled",
+    "aiEvaluation": {
+      "score": 55,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "Typescript",
+        "React"
+      ],
+      "missingSkills": [
+        "Css"
+      ],
+      "strengths": [
+        "Has Typescript experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Css experience"
+      ],
+      "summary": "Ghofran Issa shows good alignment for the Senior Frontend Developer position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 55%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 55%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-01T03:28:04.541Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-04-01T03:30:35.751Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff744",
+      "proposedAt": "2026-04-03T11:36:54.598Z",
+      "deadline": "2026-04-06T11:36:54.584Z",
+      "slots": [
+        {
+          "date": "2026-04-22",
+          "time": "12:30",
+          "datetime": "2026-04-22T11:30:00.000Z",
+          "_id": "69cfa6560a5d470eb9a78ecb"
+        },
+        {
+          "date": "2026-04-24",
+          "time": "13:40",
+          "datetime": "2026-04-24T12:40:00.000Z",
+          "_id": "69cfa6560a5d470eb9a78ecc"
+        },
+        {
+          "date": "2026-04-25",
+          "time": "15:30",
+          "datetime": "2026-04-25T14:30:00.000Z",
+          "_id": "69cfa6560a5d470eb9a78ecd"
+        }
+      ],
+      "googleMeetLink": "https fvhgdg",
+      "status": "selected",
+      "selectedSlot": {
+        "date": "2026-04-22",
+        "time": "12:30",
+        "datetime": "2026-04-22T11:30:00.000Z"
+      }
+    },
+    "appliedAt": "2026-04-01T03:27:52.587Z",
+    "createdAt": "2026-04-01T03:27:52.717Z",
+    "updatedAt": "2026-04-05T01:41:00.917Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices.",
+    "scheduledInterview": {
+      "date": "2026-04-22T11:30:00.000Z",
+      "time": "12:30"
+    }
+  },
+  {
+    "_id": "69cfc2378339d8aa3b8aaaea",
+    "candidate": "69cc5f4a40a16be6d9d610b7",
+    "job": "69cac560ae7648593d072734",
+    "cv": "http://10.111.169.131:5000/api/files/uploads/1775014039387-392584203-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "interview_scheduled",
+    "aiEvaluation": {
+      "score": 55,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "React",
+        "Typescript"
+      ],
+      "missingSkills": [
+        "Css"
+      ],
+      "strengths": [
+        "Has React experience",
+        "Has Typescript experience"
+      ],
+      "weaknesses": [
+        "Missing Css experience"
+      ],
+      "summary": "Ghofran Issa shows good alignment for the Senior Frontend Developer position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 55%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 55%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-03T13:36:02.618Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-04-03T13:38:12.574Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff748",
+      "proposedAt": "2026-04-03T13:42:57.486Z",
+      "deadline": "2026-04-06T13:42:46.375Z",
+      "slots": [
+        {
+          "date": "2026-01-05",
+          "time": "12:00",
+          "datetime": "2026-01-05T11:00:00.000Z",
+          "_id": "69cfc3e48339d8aa3b8aac14"
+        },
+        {
+          "date": "2026-04-30",
+          "time": "13:00",
+          "datetime": "2026-04-30T12:00:00.000Z",
+          "_id": "69cfc3e68339d8aa3b8aac15"
+        },
+        {
+          "date": "2026-04-29",
+          "time": "14:00",
+          "datetime": "2026-04-29T13:00:00.000Z",
+          "_id": "69cfc3e78339d8aa3b8aac16"
+        }
+      ],
+      "googleMeetLink": "bbhhhhbj",
+      "status": "selected",
+      "selectedSlot": {
+        "date": "2026-01-05",
+        "time": "12:00",
+        "datetime": "2026-01-05T11:00:00.000Z"
+      }
+    },
+    "scheduledInterview": {
+      "date": "2026-01-05T11:00:00.000Z",
+      "time": "12:00"
+    },
+    "appliedAt": "2026-04-03T13:35:51.697Z",
+    "createdAt": "2026-04-03T13:35:51.700Z",
+    "updatedAt": "2026-04-05T00:51:36.685Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d0e51cced3c05c9a4f0607",
+    "candidate": "69cc5f4a40a16be6d9d610b7",
+    "job": "69a4dd7dd0a3d818c1da2d17",
+    "cv": "http://10.111.169.131:5000/api/files/uploads/1775014039387-392584203-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "interview_scheduled",
+    "aiEvaluation": {
+      "score": 42,
+      "decision": "Rejected",
+      "matchedSkills": [
+        "Typescript",
+        "React",
+        "GO"
+      ],
+      "missingSkills": [],
+      "strengths": [
+        "Has Typescript experience",
+        "Has React experience",
+        "Has GO experience"
+      ],
+      "weaknesses": [
+        "Low compatibility score (42%)"
+      ],
+      "summary": "Ghofran Issa has limited alignment for the Senior UX Engineer position. Missing key skills: . Consider reviewing other candidates or noting areas for improvement.",
+      "recommendation": "AI recommends reviewing other candidates. Score: 42%. May consider for future positions.",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-04T10:17:08.011Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-04-04T10:19:48.219Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff748",
+      "proposedAt": "2026-04-04T10:21:54.020Z",
+      "deadline": "2026-04-07T10:21:53.969Z",
+      "slots": [
+        {
+          "date": "2026-04-20",
+          "time": "12:30",
+          "datetime": "2026-04-20T11:30:00.000Z",
+          "_id": "69d0e642ced3c05c9a4f06d6"
+        },
+        {
+          "date": "2026-04-21",
+          "time": "13:30",
+          "datetime": "2026-04-21T12:30:00.000Z",
+          "_id": "69d0e642ced3c05c9a4f06d7"
+        },
+        {
+          "date": "2026-04-22",
+          "time": "12:30",
+          "datetime": "2026-04-22T11:30:00.000Z",
+          "_id": "69d0e642ced3c05c9a4f06d8"
+        }
+      ],
+      "googleMeetLink": "hhhh",
+      "status": "selected",
+      "selectedSlot": {
+        "date": "2026-04-20",
+        "time": "12:30",
+        "datetime": "2026-04-20T11:30:00.000Z"
+      }
+    },
+    "scheduledInterview": {
+      "date": "2026-04-20T11:30:00.000Z",
+      "time": "12:30"
+    },
+    "appliedAt": "2026-04-04T10:17:00.189Z",
+    "createdAt": "2026-04-04T10:17:00.243Z",
+    "updatedAt": "2026-04-05T00:32:41.422Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d0f05f76d4a2935b92205b",
+    "candidate": "69cc5f4a40a16be6d9d610b7",
+    "job": "69a4dd7dd0a3d818c1da2d18",
+    "cv": "http://10.111.169.131:5000/api/files/uploads/1775014039387-392584203-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 53,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "Java",
+        "React"
+      ],
+      "missingSkills": [
+        "Javascript"
+      ],
+      "strengths": [
+        "Has Java experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Javascript experience"
+      ],
+      "summary": "Ghofran Issa shows good alignment for the Frontend Development Intern position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 53%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 53%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-04T11:05:05.120Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-04-04T11:06:30.181Z",
+      "notes": "I don't like it "
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff748",
+      "proposedAt": "2026-04-05T02:54:45.258Z",
+      "deadline": "2026-04-08T02:54:45.247Z",
+      "slots": [
+        {
+          "date": "2026-04-06",
+          "time": "12:00",
+          "datetime": "2026-04-06T11:00:00.000Z",
+          "_id": "69d1cef50a8990acc0ca9ae2"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "13:00",
+          "datetime": "2026-04-06T12:00:00.000Z",
+          "_id": "69d1cef50a8990acc0ca9ae3"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "14:00",
+          "datetime": "2026-04-06T13:00:00.000Z",
+          "_id": "69d1cef50a8990acc0ca9ae4"
+        }
+      ],
+      "status": "proposed"
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-04T11:05:03.961Z",
+    "createdAt": "2026-04-04T11:05:03.967Z",
+    "updatedAt": "2026-04-05T02:54:45.279Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d0f6271b29232e1d631666",
+    "candidate": "69d0f5c61b29232e1d631600",
+    "job": "69cac839ea0e6e3329cfcfce",
+    "cv": "http://10.111.169.131:5000/api/files/uploads/1775302156945-727263841-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 55,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "Typescript",
+        "React"
+      ],
+      "missingSkills": [
+        "Css"
+      ],
+      "strengths": [
+        "Has Typescript experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Css experience"
+      ],
+      "summary": "iline shows good alignment for the Senior Frontend Developer position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 55%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 55%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-04T11:29:44.838Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-04-04T11:30:44.862Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-04T11:29:43.425Z",
+    "createdAt": "2026-04-04T11:29:43.427Z",
+    "updatedAt": "2026-04-04T11:30:44.864Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d0f957a8081155496b411e",
+    "candidate": "69d0f5c61b29232e1d631600",
+    "job": "69a4dd7dd0a3d818c1da2d18",
+    "cv": "http://10.111.169.131:5000/api/files/uploads/1775302156945-727263841-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 53,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "Java",
+        "React"
+      ],
+      "missingSkills": [
+        "Javascript"
+      ],
+      "strengths": [
+        "Has Java experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Javascript experience"
+      ],
+      "summary": "iline shows good alignment for the Frontend Development Intern position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 53%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 53%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-04T11:43:20.355Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-04-04T11:44:50.490Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-04T11:43:19.444Z",
+    "createdAt": "2026-04-04T11:43:19.447Z",
+    "updatedAt": "2026-04-04T11:44:50.491Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d17ee880b36c63ce793ae2",
+    "candidate": "69d17eb180b36c63ce793a8d",
+    "job": "69cac839ea0e6e3329cfcfce",
+    "cv": "http://10.33.60.131:5000/api/files/uploads/1775337173056-664942634-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 55,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "Typescript",
+        "React"
+      ],
+      "missingSkills": [
+        "Css"
+      ],
+      "strengths": [
+        "Has Typescript experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Css experience"
+      ],
+      "summary": "Wissal shows good alignment for the Senior Frontend Developer position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 55%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 55%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-04T21:13:14.137Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-04-04T21:13:56.793Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-04T21:13:12.801Z",
+    "createdAt": "2026-04-04T21:13:12.802Z",
+    "updatedAt": "2026-04-04T21:13:56.793Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d1c46ba0003953cf74774d",
+    "candidate": "69d17eb180b36c63ce793a8d",
+    "job": "69a4dd7dd0a3d818c1da2d18",
+    "cv": "http://10.33.60.131:5000/api/files/uploads/1775337173056-664942634-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 53,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "React",
+        "Java"
+      ],
+      "missingSkills": [
+        "Javascript"
+      ],
+      "strengths": [
+        "Has React experience",
+        "Has Java experience"
+      ],
+      "weaknesses": [
+        "Missing Javascript experience"
+      ],
+      "summary": "Wissal shows good alignment for the Frontend Development Intern position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 53%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 53%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-05T02:09:55.223Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff744",
+      "decidedAt": "2026-04-05T02:12:08.346Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-05T02:09:47.624Z",
+    "createdAt": "2026-04-05T02:09:47.625Z",
+    "updatedAt": "2026-04-05T02:12:08.347Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d1c89464ddd30219164e72",
+    "candidate": "69d1c6faae8b93751746e331",
+    "job": "69cac560ae7648593d072734",
+    "cv": "http://10.33.60.131:5000/api/files/uploads/1775355734177-659295476-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 55,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "Typescript",
+        "React"
+      ],
+      "missingSkills": [
+        "Css"
+      ],
+      "strengths": [
+        "Has Typescript experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Css experience"
+      ],
+      "summary": "Ghofran shows good alignment for the Senior Frontend Developer position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 55%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 55%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-05T02:27:34.406Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-04-05T02:37:47.974Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-05T02:27:32.204Z",
+    "createdAt": "2026-04-05T02:27:32.212Z",
+    "updatedAt": "2026-04-05T02:37:47.976Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d1d31a0a8990acc0ca9c4c",
+    "candidate": "69d1c6faae8b93751746e331",
+    "job": "69a4dd7dd0a3d818c1da2d1c",
+    "cv": "http://10.33.60.131:5000/api/files/uploads/1775355734177-659295476-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "interview_scheduled",
+    "aiEvaluation": {
+      "score": 34,
+      "decision": "Rejected",
+      "matchedSkills": [
+        "Typescript",
+        "React"
+      ],
+      "missingSkills": [
+        "Graphql"
+      ],
+      "strengths": [
+        "Has Typescript experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Missing Graphql experience",
+        "Low compatibility score (34%)"
+      ],
+      "summary": "Ghofran has limited alignment for the Mobile App Developer position. Missing key skills: Graphql. Consider reviewing other candidates or noting areas for improvement.",
+      "recommendation": "AI recommends reviewing other candidates. Score: 34%. May consider for future positions.",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-05T03:12:30.280Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-04-05T03:19:55.743Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "proposedBy": "69a620795af26d39400ff748",
+      "proposedAt": "2026-04-05T03:21:06.796Z",
+      "deadline": "2026-04-08T03:21:06.775Z",
+      "slots": [
+        {
+          "date": "2026-04-06",
+          "time": "12:00",
+          "datetime": "2026-04-06T11:00:00.000Z",
+          "_id": "69d1d522a8d133d384b7b987"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "13:50",
+          "datetime": "2026-04-06T12:50:00.000Z",
+          "_id": "69d1d522a8d133d384b7b988"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "14:00",
+          "datetime": "2026-04-06T13:00:00.000Z",
+          "_id": "69d1d522a8d133d384b7b989"
+        }
+      ],
+      "status": "selected",
+      "selectedSlot": {
+        "date": "2026-04-06",
+        "time": "14:00",
+        "datetime": "2026-04-06T13:00:00.000Z"
+      }
+    },
+    "scheduledInterview": {
+      "date": "2026-04-06T13:00:00.000Z",
+      "time": "14:00",
+      "reminderSent": true
+    },
+    "appliedAt": "2026-04-05T03:12:26.695Z",
+    "createdAt": "2026-04-05T03:12:26.718Z",
+    "updatedAt": "2026-04-05T04:00:06.982Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d2066fc9f770a0b376d22a",
+    "candidate": "69d1c6faae8b93751746e331",
+    "job": "69a4dd7dd0a3d818c1da2d17",
+    "cv": "http://10.33.60.131:5000/api/files/uploads/1775355734177-659295476-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "shortlisted",
+    "aiEvaluation": {
+      "score": 42,
+      "decision": "Rejected",
+      "matchedSkills": [
+        "GO",
+        "Typescript",
+        "React"
+      ],
+      "missingSkills": [],
+      "strengths": [
+        "Has GO experience",
+        "Has Typescript experience",
+        "Has React experience"
+      ],
+      "weaknesses": [
+        "Low compatibility score (42%)"
+      ],
+      "summary": "Ghofran has limited alignment for the Senior UX Engineer position. Missing key skills: . Consider reviewing other candidates or noting areas for improvement.",
+      "recommendation": "AI recommends reviewing other candidates. Score: 42%. May consider for future positions.",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-05T06:51:36.039Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-04-05T06:52:41.246Z",
+      "notes": ""
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-05T06:51:27.876Z",
+    "createdAt": "2026-04-05T06:51:27.877Z",
+    "updatedAt": "2026-04-05T06:52:41.247Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices."
+  },
+  {
+    "_id": "69d396b02f405b4f2b0eb65b",
+    "candidate": "69d393952f405b4f2b0eb5c4",
+    "job": "69cac560ae7648593d072734",
+    "cv": "http://10.223.254.131:5000/api/files/uploads/1775474282999-512264417-Ghofran_Issaoui%20(1).pdf",
+    "cvProcessingStatus": "completed",
+    "status": "hired",
+    "aiEvaluation": {
+      "score": 55,
+      "decision": "Accepted",
+      "matchedSkills": [
+        "React",
+        "Typescript"
+      ],
+      "missingSkills": [
+        "Css"
+      ],
+      "strengths": [
+        "Has React experience",
+        "Has Typescript experience"
+      ],
+      "weaknesses": [
+        "Missing Css experience"
+      ],
+      "summary": "Ghofran shows good alignment for the Senior Frontend Developer position with 2 matching skills. The candidate meets the minimum requirements with a compatibility score of 55%.",
+      "recommendation": "AI recommends proceeding with this candidate. Score: 55%",
+      "confidenceLevel": "low",
+      "evaluatedAt": "2026-04-06T11:19:19.940Z",
+      "aiModel": "MiniLM"
+    },
+    "rhFinalDecision": {
+      "status": "approved",
+      "decidedBy": "69a620795af26d39400ff748",
+      "decidedAt": "2026-05-03T03:56:48.829Z",
+      "notes": "Recruited as employee"
+    },
+    "interviewProposal": {
+      "status": "proposed",
+      "slots": []
+    },
+    "scheduledInterview": {
+      "reminderSent": false
+    },
+    "appliedAt": "2026-04-06T11:19:12.401Z",
+    "createdAt": "2026-04-06T11:19:12.402Z",
+    "updatedAt": "2026-05-03T03:56:49.138Z",
+    "__v": 0,
+    "cvText": "Computer Science student in the final year, focusing on software and web development. Programming (Java, C++, Python) and\nfull-stack development (React.js, Next.js, Node.js, Express, MongoDB) have been mastered on a basic level.\nI am looking for a PFE internship that would allow me to use my academic knowledge, work on real-world projects, and develop\nmyself as a professional.\n+216-93875504\nGhofranissaoui83@gmail.com\nGHOFRAN ISSAOUI\nFULL STACK WEB DEVELOPER\nTECHNICAL SKILLS\n• Created a healthcare platform that includes a public landing page and personalized dashboards for\npatients and doctors.\n• Built a search and filtering feature that enables patients to locate healthcare providers by specialty and\narea.\n• Carried out the implementation of an online booking system for consultation with the scheduling\nautomated via Zoom and Google Meet.\n• Developed and controlled an admin panel to manage doctors, patients, appointments, and approvals as\nwell as monitor important statistics such as the number of active users and the rate of appointments.\nAriena, Tunisia\nTypeScript, Python , Nest.js, Express.js , Next.js\nLanguages  & Framworks:\nwww.linkedin.com/ui/GhofranIssaoui\nhttps://github.com/ghofranIssaoui\n MongoDB, PostgreSQL\nDatabases  :\n  Git/GitHub, Postman, Atlas\nTools  &  Others  :\nEDUCATION\nINSTITUT SUPÉRIEUR DES SCIENCES APPLIQUÉES ET DE TECHNOLOGIE\nFinal-year student in Computer Science   :  2024 - 2025\nLYCÉE SAHAFA ELGHAZELA\nBaccalaureate : 2023\nWORKING EXPERIENCE\nMEDICALE PLATFORM – FULL-STACK DEVELOPER\nApril 2025 - May 2025\nONTT TOURISM PLATFORM – FULL-STACK DEVELOPER\nJuly 2025 - August 2025\n• Created a tourism management platform that combined hotels, restaurants, and travel agencies with\ncategorization by region.\n• Developed APIs and services to retrieve, sort, and present establishments dynamically to users according\nto their location and preferences.\n• Made a tourist complaint and feedback mechanism resulting in reporting of issues and raising the service\nquality.\n• Developed a mobile front-end interface with the smart search and filtering options for smooth user\ninteraction.\n• Conceived a back-office administration board to control establishments, user grievances and access main\noperational indices.\nFASHION E-COMMERCE PLATFORM – FULL-STACK DEVELOPER\nDec 2024 - January 2025\n• Developed a full-featured online store for clothing with a public landing page, product catalogs, and\npersonalized user dashboards.\n • Implemented product search, filtering, and recommendation systems to enhance customer experience.\n • Integrated secure payment gateways, shopping cart functionality, and order management workflows.\n • Built an admin panel to manage products, categories, orders, and track key metrics such as sales, inventory,\nand user activity.\n • Applied responsive design principles to ensure seamless experience across web and mobile devices.",
+    "viewedByRH": true
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "69f6c7819073f153ac7ebe8a",
+    "intern": "69d393952f405b4f2b0eb5c4",
+    "rhManager": "69a620795af26d39400ff748",
+    "type": "employee",
+    "domain": "Senior Frontend Developer",
+    "assignedProject": "New Ghofran",
+    "evaluationScore": 55,
+    "finalRemark": "Ibwftgyh",
+    "startDate": "2026-05-03T03:56:49.131Z",
+    "supervisor": "Test RH Employee",
+    "skills": [
+      "React",
+      "Typescript"
+    ],
+    "achievements": [
+      "Has React experience",
+      "Has Typescript experience"
+    ],
+    "areasForImprovement": [
+      "Missing Css experience"
+    ],
+    "status": "ongoing",
+    "createdAt": "2026-05-03T03:56:49.134Z",
+    "updatedAt": "2026-05-03T04:13:21.783Z",
+    "__v": 1,
+    "interviewDates": [],
+    "interviewNumber": 0
+  },
+  {
+    "_id": "69f80282e0c1b345a34222eb",
+    "intern": "69cc5f4a40a16be6d9d610b7",
+    "rhManager": "69a620795af26d39400ff746",
+    "type": "internship",
+    "domain": "Senior UX Engineer",
+    "assignedProject": "fulltime - Google",
+    "evaluationScore": 51,
+    "finalRemark": "",
+    "startDate": "2026-03-31T00:00:00.000Z",
+    "endDate": null,
+    "supervisor": "Test RH Employee",
+    "skills": [],
+    "achievements": [],
+    "areasForImprovement": [],
+    "status": "ongoing",
+    "interviewNumber": 0,
+    "interviewDates": [],
+    "createdAt": "2026-05-04T02:20:50.354Z",
+    "updatedAt": "2026-05-04T02:28:20.714Z",
+    "__v": 0
+  }
+]

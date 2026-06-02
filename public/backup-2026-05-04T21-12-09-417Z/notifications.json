@@ -1,0 +1,648 @@
+[
+  {
+    "_id": "69ca45cda31016cd3e1eb6d3",
+    "user": "69ca1c71bce7833e1c67c038",
+    "type": "application",
+    "title": "Application Update - Senior UX Engineer",
+    "message": "We've updated your application status for Senior UX Engineer. Check your email for more information.",
+    "read": false,
+    "priority": "low",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior UX Engineer",
+      "link": "/applications",
+      "status": "rejected",
+      "actionUrl": "/applications"
+    },
+    "createdAt": "2026-03-30T09:43:41.127Z",
+    "updatedAt": "2026-03-30T09:43:41.127Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ca4607a31016cd3e1eb6e9",
+    "user": "69b8cbfeac0ec2f38c7ddb18",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior UX Engineer",
+    "message": "Great news! Your application for Senior UX Engineer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior UX Engineer",
+      "link": "/applications",
+      "status": "approved",
+      "actionUrl": "/applications"
+    },
+    "createdAt": "2026-03-30T09:44:39.330Z",
+    "updatedAt": "2026-03-30T10:05:13.006Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cac949ea0e6e3329cfd095",
+    "user": "69b8cbfeac0ec2f38c7ddb18",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-03-30T19:04:41.262Z",
+    "updatedAt": "2026-03-30T19:32:06.224Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cc9146f7beb2aca8e4d160",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-01T03:30:14.106Z",
+    "updatedAt": "2026-04-01T03:59:19.269Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ccc93f2d7d17d22bbe6222",
+    "user": "69b8cbfeac0ec2f38c7ddb18",
+    "type": "application",
+    "title": "🎉 Application Approved - Frontend Development Intern",
+    "message": "Great news! Your application for Frontend Development Intern has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-01T07:29:03.303Z",
+    "updatedAt": "2026-04-01T07:29:03.303Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfa268c3475a25e80cad8c",
+    "user": "69b8cbfeac0ec2f38c7ddb18",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Senior Frontend Developer",
+    "message": "Interview slots are now available for Senior Frontend Developer! Please select your preferred time.",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-03T11:20:08.845Z",
+    "updatedAt": "2026-04-03T11:21:39.114Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfa41d2bcd0f46eaf9b7e4",
+    "user": "69b8cbfeac0ec2f38c7ddb18",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Frontend Development Intern",
+    "message": "Interview slots are now available for Frontend Development Intern! Please select your preferred time.",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-03T11:27:25.681Z",
+    "updatedAt": "2026-04-03T11:39:18.653Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfa6560a5d470eb9a78ecf",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Senior Frontend Developer",
+    "message": "Interview slots are now available for Senior Frontend Developer! Please select your preferred time.",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-03T11:36:54.608Z",
+    "updatedAt": "2026-04-03T13:16:59.604Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfc2a88339d8aa3b8aabc0",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-03T13:37:44.648Z",
+    "updatedAt": "2026-04-03T14:47:41.639Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfc2c48339d8aa3b8aabd1",
+    "user": "69ca1c71bce7833e1c67c038",
+    "type": "application",
+    "title": "🎉 Application Approved - Lead Data Scientist",
+    "message": "Great news! Your application for Lead Data Scientist has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Lead Data Scientist",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-03T13:38:12.692Z",
+    "updatedAt": "2026-04-03T13:38:12.692Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfc2c48339d8aa3b8aabd3",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-03T13:38:12.912Z",
+    "updatedAt": "2026-04-03T13:47:15.752Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cfc3ef8339d8aa3b8aac18",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Senior Frontend Developer",
+    "message": "Interview slots are now available for Senior Frontend Developer! Please select your preferred time.",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-03T13:43:13.546Z",
+    "updatedAt": "2026-04-03T13:47:21.093Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0e5c4ced3c05c9a4f06bb",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior UX Engineer",
+    "message": "Great news! Your application for Senior UX Engineer has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior UX Engineer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T10:19:48.225Z",
+    "updatedAt": "2026-04-04T10:19:48.225Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0e642ced3c05c9a4f06da",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Senior UX Engineer",
+    "message": "Interview slots are now available for Senior UX Engineer! Please select your preferred time.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior UX Engineer",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T10:21:54.054Z",
+    "updatedAt": "2026-04-04T10:21:54.054Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0f0af76d4a2935b9220dc",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Frontend Development Intern",
+    "message": "Great news! Your application for Frontend Development Intern has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T11:06:23.268Z",
+    "updatedAt": "2026-04-04T11:06:23.268Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0f0b076d4a2935b9220e3",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Frontend Development Intern",
+    "message": "Great news! Your application for Frontend Development Intern has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T11:06:24.313Z",
+    "updatedAt": "2026-04-04T11:06:24.313Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0f0b576d4a2935b9220ea",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Frontend Development Intern",
+    "message": "Great news! Your application for Frontend Development Intern has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T11:06:29.429Z",
+    "updatedAt": "2026-04-04T11:06:29.429Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0f0b676d4a2935b9220f1",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "🎉 Application Approved - Frontend Development Intern",
+    "message": "Great news! Your application for Frontend Development Intern has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T11:06:30.186Z",
+    "updatedAt": "2026-04-04T11:06:30.186Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0f6641b29232e1d6316de",
+    "user": "69d0f5c61b29232e1d631600",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T11:30:44.876Z",
+    "updatedAt": "2026-04-04T11:31:47.207Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0f9b2a8081155496b416b",
+    "user": "69d0f5c61b29232e1d631600",
+    "type": "application",
+    "title": "🎉 Application Approved - Frontend Development Intern",
+    "message": "Great news! Your application for Frontend Development Intern has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T11:44:50.495Z",
+    "updatedAt": "2026-04-04T11:44:50.495Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d17f1480b36c63ce793b3a",
+    "user": "69d17eb180b36c63ce793a8d",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-04T21:13:56.797Z",
+    "updatedAt": "2026-04-04T21:13:56.797Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1adca79159f2c9dd6e7ac",
+    "user": "69a620795af26d39400ff748",
+    "type": "application",
+    "title": "✅ Interview Confirmed - Senior UX Engineer",
+    "message": "Your interview for Senior UX Engineer has been confirmed! Check your email for details.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior UX Engineer",
+      "link": "/applications/Ghofran Issa",
+      "status": "interview_confirmed",
+      "actionUrl": "/applications/Ghofran Issa"
+    },
+    "createdAt": "2026-04-05T00:33:14.375Z",
+    "updatedAt": "2026-04-05T00:33:14.375Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1b23979159f2c9dd6e88c",
+    "user": "69a620795af26d39400ff748",
+    "type": "application",
+    "title": "✅ Interview Confirmed - Senior Frontend Developer",
+    "message": "Your interview for Senior Frontend Developer has been confirmed! Check your email for details.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/Ghofran Issa",
+      "status": "interview_confirmed",
+      "actionUrl": "/applications/Ghofran Issa"
+    },
+    "createdAt": "2026-04-05T00:52:09.358Z",
+    "updatedAt": "2026-04-05T00:52:09.358Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1bdd179159f2c9dd6e8b9",
+    "user": "69a620795af26d39400ff744",
+    "type": "application",
+    "title": "✅ Interview Confirmed - Senior Frontend Developer",
+    "message": "Your interview for Senior Frontend Developer has been confirmed! Check your email for details.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/Ghofran Issa",
+      "status": "interview_confirmed",
+      "actionUrl": "/applications/Ghofran Issa"
+    },
+    "createdAt": "2026-04-05T01:41:37.273Z",
+    "updatedAt": "2026-04-05T01:41:37.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1c4f8a0003953cf7477f8",
+    "user": "69d17eb180b36c63ce793a8d",
+    "type": "application",
+    "title": "🎉 Application Approved - Frontend Development Intern",
+    "message": "Great news! Your application for Frontend Development Intern has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T02:12:08.351Z",
+    "updatedAt": "2026-04-05T02:12:08.351Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1cafb112b5ab03b90ed15",
+    "user": "69d1c6faae8b93751746e331",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T02:37:47.980Z",
+    "updatedAt": "2026-04-05T04:40:53.815Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1cee7abeba2e90f07215a",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Frontend Development Intern",
+    "message": "Interview slots are now available for Frontend Development Intern! Please select your preferred time.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T02:54:31.936Z",
+    "updatedAt": "2026-04-05T02:54:31.936Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1cef50a8990acc0ca9ae6",
+    "user": "69cc5f4a40a16be6d9d610b7",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Frontend Development Intern",
+    "message": "Interview slots are now available for Frontend Development Intern! Please select your preferred time.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Frontend Development Intern",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T02:54:45.331Z",
+    "updatedAt": "2026-04-05T02:54:45.331Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1cf5e0a8990acc0ca9bad",
+    "user": "69b8cbfeac0ec2f38c7ddb18",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Senior UX Engineer",
+    "message": "Interview slots are now available for Senior UX Engineer! Please select your preferred time.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior UX Engineer",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T02:56:30.122Z",
+    "updatedAt": "2026-04-05T02:56:30.122Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1d4dba8d133d384b7b959",
+    "user": "69d1c6faae8b93751746e331",
+    "type": "application",
+    "title": "🎉 Application Approved - Mobile App Developer",
+    "message": "Great news! Your application for Mobile App Developer has been approved. Interview slots will be available soon!",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Mobile App Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T03:19:55.751Z",
+    "updatedAt": "2026-04-05T04:40:37.763Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1d522a8d133d384b7b98b",
+    "user": "69d1c6faae8b93751746e331",
+    "type": "application",
+    "title": "📅 Interview Slots Available - Mobile App Developer",
+    "message": "Interview slots are now available for Mobile App Developer! Please select your preferred time.",
+    "read": true,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Mobile App Developer",
+      "link": "/applications/undefined",
+      "status": "interview_scheduling",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T03:21:06.821Z",
+    "updatedAt": "2026-04-05T04:36:11.947Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d1d8dd58bf7282fb5ea580",
+    "user": "69a620795af26d39400ff748",
+    "type": "application",
+    "title": "✅ Interview Confirmed - Mobile App Developer",
+    "message": "Your interview for Mobile App Developer has been confirmed! Check your email for details.",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Mobile App Developer",
+      "link": "/applications/Ghofran",
+      "status": "interview_confirmed",
+      "actionUrl": "/applications/Ghofran"
+    },
+    "createdAt": "2026-04-05T03:37:02.003Z",
+    "updatedAt": "2026-04-05T03:37:02.003Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d206b9c9f770a0b376d2ff",
+    "user": "69d1c6faae8b93751746e331",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior UX Engineer",
+    "message": "Great news! Your application for Senior UX Engineer has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior UX Engineer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-04-05T06:52:41.251Z",
+    "updatedAt": "2026-04-05T06:52:41.251Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f6c7809073f153ac7ebe83",
+    "user": "69d393952f405b4f2b0eb5c4",
+    "type": "application",
+    "title": "🎉 Application Approved - Senior Frontend Developer",
+    "message": "Great news! Your application for Senior Frontend Developer has been approved. Interview slots will be available soon!",
+    "read": false,
+    "priority": "high",
+    "data": {
+      "company": "ebiservices",
+      "position": "Senior Frontend Developer",
+      "link": "/applications/undefined",
+      "status": "approved",
+      "actionUrl": "/applications/undefined"
+    },
+    "createdAt": "2026-05-03T03:56:48.954Z",
+    "updatedAt": "2026-05-03T03:56:48.954Z",
+    "__v": 0
+  }
+]

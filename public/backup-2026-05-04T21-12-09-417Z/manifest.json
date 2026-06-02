@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-05-04T21:12:09.448Z",
+  "version": "1.0",
+  "collections": [
+    {
+      "name": "users",
+      "model": "User",
+      "count": 28,
+      "file": "users.json"
+    },
+    {
+      "name": "jobs",
+      "model": "Job",
+      "count": 9,
+      "file": "jobs.json"
+    },
+    {
+      "name": "applications",
+      "model": "Application",
+      "count": 17,
+      "file": "applications.json"
+    },
+    {
+      "name": "notifications",
+      "model": "Notification",
+      "count": 34,
+      "file": "notifications.json"
+    },
+    {
+      "name": "availabilities",
+      "model": "Availability",
+      "count": 0,
+      "file": "availabilities.json"
+    },
+    {
+      "name": "messages",
+      "model": "Message",
+      "count": 39,
+      "file": "messages.json"
+    },
+    {
+      "name": "evaluations",
+      "model": "Evaluation",
+      "count": 2,
+      "file": "evaluations.json"
+    },
+    {
+      "name": "interviewrequests",
+      "model": "InterviewRequest",
+      "count": 2,
+      "file": "interviewrequests.json"
+    },
+    {
+      "name": "portfolioitems",
+      "model": "PortfolioItem",
+      "count": 0,
+      "file": "portfolioitems.json"
+    },
+    {
+      "name": "achievements",
+      "model": "Achievement",
+      "count": 0,
+      "file": "achievements.json"
+    },
+    {
+      "name": "certifications",
+      "model": "Certification",
+      "count": 0,
+      "file": "certifications.json"
+    },
+    {
+      "name": "documents",
+      "model": "Document",
+      "count": 8,
+      "file": "documents.json"
+    },
+    {
+      "name": "skills",
+      "model": "Skill",
+      "count": 2,
+      "file": "skills.json"
+    },
+    {
+      "name": "aichatmessages",
+      "model": "AIChatMessage",
+      "count": 14,
+      "file": "aichatmessages.json"
+    }
+  ]
+}

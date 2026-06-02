@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "69a509cc208b5c6d93828fda",
+    "candidate": "69a50842b6f42e355ec44560",
+    "company": null,
+    "position": "Senior Frontend Developer",
+    "type": "employee",
+    "status": "awaiting_approval",
+    "aiScore": 88,
+    "proposedSlots": [
+      {
+        "id": "s1",
+        "date": "2024-03-15",
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "selected": true,
+        "_id": "69a509cc208b5c6d93828fdb"
+      },
+      {
+        "id": "s2",
+        "date": "2024-03-16",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "selected": true,
+        "_id": "69a509cc208b5c6d93828fdc"
+      },
+      {
+        "id": "s3",
+        "date": "2024-03-17",
+        "startTime": "09:00",
+        "endTime": "09:45",
+        "selected": true,
+        "_id": "69a509cc208b5c6d93828fdd"
+      }
+    ],
+    "confirmedSlot": {
+      "date": "2024-03-20",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "meetingLink": "https://meet.example.com/employee-interview",
+      "interviewer": "Sarah Johnson",
+      "location": "Office HQ, On-site"
+    },
+    "feedback": "",
+    "appliedDate": "2026-03-02T03:53:48.428Z",
+    "createdAt": "2026-03-02T03:53:48.435Z",
+    "updatedAt": "2026-03-02T03:53:48.435Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a509cc208b5c6d93828fdf",
+    "candidate": "69a4d9fea0640a83a87cfc87",
+    "company": null,
+    "position": "UX Designer Intern",
+    "type": "internship",
+    "status": "pending_selection",
+    "aiScore": 95,
+    "proposedSlots": [
+      {
+        "id": "i1",
+        "date": "2024-03-10",
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "selected": false,
+        "_id": "69a509cc208b5c6d93828fe0"
+      },
+      {
+        "id": "i2",
+        "date": "2024-03-11",
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "selected": false,
+        "_id": "69a509cc208b5c6d93828fe1"
+      },
+      {
+        "id": "i3",
+        "date": "2024-03-12",
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "selected": false,
+        "_id": "69a509cc208b5c6d93828fe2"
+      }
+    ],
+    "feedback": "",
+    "appliedDate": "2026-03-02T03:53:48.462Z",
+    "createdAt": "2026-03-02T03:53:48.464Z",
+    "updatedAt": "2026-03-02T03:53:48.464Z",
+    "__v": 0
+  }
+]

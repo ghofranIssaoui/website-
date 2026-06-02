@@ -1,0 +1,764 @@
+[
+  {
+    "_id": "69ccc8912d7d17d22bbe6190",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "application": "69cc90b8f7beb2aca8e4d12b",
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T07:26:09.201Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69ccc8a22d7d17d22bbe61bf",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "How are u",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T07:26:26.046Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69ccca162d7d17d22bbe6264",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Hi how are u",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "application": "69cc90b8f7beb2aca8e4d12b",
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T07:32:38.675Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69cccf715e8b1195c4723d8e",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T07:55:29.988Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69cccf8b5e8b1195c4723da5",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Ji",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T07:55:55.320Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69ccd037254de23716852b1f",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T07:58:47.916Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69ccd046254de23716852b36",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "How are u",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T07:59:02.311Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69ccd19c79ae17e919b3cd71",
+    "sender": "69a620795af26d39400ff744",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Hoi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T08:04:44.812Z",
+    "updatedAt": "2026-04-01T23:02:44.748Z",
+    "__v": 0,
+    "readAt": "2026-04-01T23:02:44.748Z"
+  },
+  {
+    "_id": "69cda41e45d40da90a9450d2",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff744",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-01T23:02:55.190Z",
+    "updatedAt": "2026-04-03T11:34:43.208Z",
+    "__v": 0,
+    "readAt": "2026-04-03T11:34:43.207Z"
+  },
+  {
+    "_id": "69e7f88d1f19f86b50f43254",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "application": "69d396b02f405b4f2b0eb65b",
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T22:22:05.543Z",
+    "updatedAt": "2026-04-21T22:22:05.543Z",
+    "__v": 0
+  },
+  {
+    "_id": "69e7f8a61f19f86b50f43281",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Hi how are u",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "application": "69cfc2378339d8aa3b8aaaea",
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T22:22:30.094Z",
+    "updatedAt": "2026-04-21T22:34:56.758Z",
+    "__v": 0,
+    "readAt": "2026-04-21T22:34:56.758Z"
+  },
+  {
+    "_id": "69e7f91b1f19f86b50f43375",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "I miss u",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T22:24:27.352Z",
+    "updatedAt": "2026-04-21T22:34:56.758Z",
+    "__v": 0,
+    "readAt": "2026-04-21T22:34:56.758Z"
+  },
+  {
+    "_id": "69e7fe211f19f86b50f43481",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T22:45:53.543Z",
+    "updatedAt": "2026-04-21T22:59:28.537Z",
+    "__v": 0,
+    "readAt": "2026-04-21T22:59:28.537Z"
+  },
+  {
+    "_id": "69e7ff9b1f19f86b50f434ec",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "How are u",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T22:52:11.602Z",
+    "updatedAt": "2026-04-21T22:59:28.537Z",
+    "__v": 0,
+    "readAt": "2026-04-21T22:59:28.537Z"
+  },
+  {
+    "_id": "69e8012a087eec7d7497ed56",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T22:58:50.394Z",
+    "updatedAt": "2026-04-21T22:59:28.537Z",
+    "__v": 0,
+    "readAt": "2026-04-21T22:59:28.537Z"
+  },
+  {
+    "_id": "69e802c8087eec7d7497eee6",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T23:05:44.159Z",
+    "updatedAt": "2026-04-21T23:07:34.495Z",
+    "__v": 0,
+    "readAt": "2026-04-21T23:07:34.495Z"
+  },
+  {
+    "_id": "69e80305087eec7d7497ef19",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T23:06:45.623Z",
+    "updatedAt": "2026-04-21T23:07:34.495Z",
+    "__v": 0,
+    "readAt": "2026-04-21T23:07:34.495Z"
+  },
+  {
+    "_id": "69e80427087eec7d7497f05b",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T23:11:35.838Z",
+    "updatedAt": "2026-04-21T23:12:03.852Z",
+    "__v": 0,
+    "readAt": "2026-04-21T23:12:03.852Z"
+  },
+  {
+    "_id": "69e806a2087eec7d7497f20d",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T23:22:10.686Z",
+    "updatedAt": "2026-04-21T23:22:36.809Z",
+    "__v": 0,
+    "readAt": "2026-04-21T23:22:36.809Z"
+  },
+  {
+    "_id": "69e806ef087eec7d7497f285",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-04-21T23:23:27.519Z",
+    "updatedAt": "2026-04-21T23:24:03.692Z",
+    "__v": 0,
+    "readAt": "2026-04-21T23:24:03.692Z"
+  },
+  {
+    "_id": "69f6744ed16a5d3264a8fd4a",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hhhhh",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:01:50.039Z",
+    "updatedAt": "2026-05-02T22:01:50.039Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f67a60d16a5d3264a8fe4f",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hii",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:27:44.867Z",
+    "updatedAt": "2026-05-02T22:27:44.880Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:27:44.879Z"
+  },
+  {
+    "_id": "69f67a66d16a5d3264a8fe58",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hii",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:27:50.646Z",
+    "updatedAt": "2026-05-02T22:27:50.648Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:27:50.647Z"
+  },
+  {
+    "_id": "69f67afed16a5d3264a8fe76",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Where you",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:30:22.241Z",
+    "updatedAt": "2026-05-02T22:30:22.241Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f67baad16a5d3264a8fed7",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hh",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:33:14.338Z",
+    "updatedAt": "2026-05-02T22:33:14.341Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:33:14.340Z"
+  },
+  {
+    "_id": "69f67badd16a5d3264a8fee0",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hy",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:33:17.513Z",
+    "updatedAt": "2026-05-02T22:33:17.551Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:33:17.551Z"
+  },
+  {
+    "_id": "69f67bb4d16a5d3264a8fee9",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Yyy",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:33:24.434Z",
+    "updatedAt": "2026-05-02T22:33:24.435Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:33:24.435Z"
+  },
+  {
+    "_id": "69f67c0dd16a5d3264a8fef2",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Rg",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:34:53.356Z",
+    "updatedAt": "2026-05-02T22:34:53.359Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:34:53.358Z"
+  },
+  {
+    "_id": "69f67c38d16a5d3264a8fefb",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:35:36.406Z",
+    "updatedAt": "2026-05-02T22:35:36.410Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:35:36.409Z"
+  },
+  {
+    "_id": "69f67c77d16a5d3264a8ff04",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Uu",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:36:39.026Z",
+    "updatedAt": "2026-05-02T22:36:39.029Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:36:39.029Z"
+  },
+  {
+    "_id": "69f67c90d16a5d3264a8ff0d",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Ju",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": true,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:37:04.646Z",
+    "updatedAt": "2026-05-02T22:37:04.649Z",
+    "__v": 0,
+    "deliveredAt": "2026-05-02T22:37:04.648Z"
+  },
+  {
+    "_id": "69f67cddd16a5d3264a8ff31",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "V",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:38:21.212Z",
+    "updatedAt": "2026-05-02T22:38:21.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f67eded16a5d3264a900cd",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hh",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:46:54.506Z",
+    "updatedAt": "2026-05-02T22:46:54.506Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f67f5fd16a5d3264a901d6",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69cc5f4a40a16be6d9d610b7",
+    "content": "Jj",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": true,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:49:03.905Z",
+    "updatedAt": "2026-05-03T22:08:04.063Z",
+    "__v": 0,
+    "readAt": "2026-05-03T22:08:04.063Z"
+  },
+  {
+    "_id": "69f67f84d16a5d3264a90231",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Jj",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:49:40.951Z",
+    "updatedAt": "2026-05-02T22:49:40.951Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f67f89d16a5d3264a9026f",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d393952f405b4f2b0eb5c4",
+    "content": "Hh",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T22:49:45.877Z",
+    "updatedAt": "2026-05-02T22:49:45.877Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f68b22d16a5d3264a9085d",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69d1c6faae8b93751746e331",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "application": "69d2066fc9f770a0b376d22a",
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T23:39:14.454Z",
+    "updatedAt": "2026-05-02T23:39:14.454Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f68b33d16a5d3264a908a9",
+    "sender": "69a620795af26d39400ff748",
+    "recipient": "69b8cbfeac0ec2f38c7ddb18",
+    "content": "Hi",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "application": "69c9fe8a25d87f1c5a988831",
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-02T23:39:31.967Z",
+    "updatedAt": "2026-05-02T23:39:31.967Z",
+    "__v": 0
+  },
+  {
+    "_id": "69f7c74be48243b872f53189",
+    "sender": "69cc5f4a40a16be6d9d610b7",
+    "recipient": "69a620795af26d39400ff748",
+    "content": "Hii",
+    "messageType": "text",
+    "fileUrl": "",
+    "fileName": "",
+    "read": false,
+    "delivered": false,
+    "metadata": {
+      "edited": false,
+      "deleted": false,
+      "reactions": []
+    },
+    "createdAt": "2026-05-03T22:08:11.811Z",
+    "updatedAt": "2026-05-03T22:08:11.811Z",
+    "__v": 0
+  }
+]

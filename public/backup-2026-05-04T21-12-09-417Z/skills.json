@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "69ccaec226ae43ca9016e911",
+    "userId": "69b8cbfeac0ec2f38c7ddb18",
+    "name": "Reaxt",
+    "category": "Frontend",
+    "level": 50,
+    "yearsExp": 1,
+    "verified": false,
+    "endorsements": 0,
+    "endorsedBy": [],
+    "createdAt": "2026-04-01T05:36:02.855Z",
+    "updatedAt": "2026-04-01T05:36:02.855Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ccaede26ae43ca9016e91a",
+    "userId": "69b8cbfeac0ec2f38c7ddb18",
+    "name": "React",
+    "category": "Frontend",
+    "level": 50,
+    "yearsExp": 1,
+    "verified": false,
+    "endorsements": 1,
+    "endorsedBy": [
+      {
+        "userId": "69b8cbfeac0ec2f38c7ddb18",
+        "endorsedAt": "2026-04-01T05:39:18.259Z",
+        "_id": "69ccaf8626ae43ca9016e94d"
+      }
+    ],
+    "createdAt": "2026-04-01T05:36:30.073Z",
+    "updatedAt": "2026-04-01T05:39:18.265Z",
+    "__v": 1
+  }
+]
